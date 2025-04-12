@@ -1,0 +1,7 @@
+ABOUT-THIS.TXT
+
+This repository is a fictional archive.
+
+These files were 'recovered' after the commit to MatrixOS v7.0.
+
+It is fan-created. It is emotional infrastructure. It is fair use.

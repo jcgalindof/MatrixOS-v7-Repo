@@ -1,0 +1,5 @@
+--- original_matrix.c
++++ patched_matrix.c
+@@ void main()
+- control_everything();
++ allow_choice("inconditional");
